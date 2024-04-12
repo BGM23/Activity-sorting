@@ -1,0 +1,15 @@
+
+x
+java:S1488D"\Immediately return this expression instead of assigning it to the temporary variable "copy".(òÄ×58ž„Ó‚í1
+V
+java:S1220""Move this file to a named package.J$8dee9a54-f559-4d19-9e89-a3bd3732403a
+K
+java:S2140	")Use "java.util.Random.nextInt()" instead.(äÁò˜øÿÿÿÿ8¯„Ó‚í1
+G	java:S106"+Replace this use of System.out by a logger.(á§ÏŒ8´„Ó‚í1
+G	java:S106"+Replace this use of System.out by a logger.(ã’Þ£8µ„Ó‚í1
+G	java:S106"+Replace this use of System.out by a logger.(óÆ›ì8µ„Ó‚í1
+L	java:S106#"+Replace this use of System.out by a logger.(àþœøøÿÿÿÿ8¶„Ó‚í1
+L	java:S106'"+Replace this use of System.out by a logger.(ÏÍóþþÿÿÿÿ8·„Ó‚í1
+L	java:S1062"+Replace this use of System.out by a logger.(äÈÚáùÿÿÿÿ8¸„Ó‚í1
+L	java:S1065"+Replace this use of System.out by a logger.(–”ÕŠÿÿÿÿÿ8¹„Ó‚í1
+F	java:S106>"+Replace this use of System.out by a logger.(˜íÜk8º„Ó‚í1
